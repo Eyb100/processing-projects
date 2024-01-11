@@ -1,3 +1,4 @@
+//INSTRUCTIONS:control the wind direction with the left and right arrows
 PImage petalImage1; 
 PImage petalImage2; 
 PImage petalImage3; 
